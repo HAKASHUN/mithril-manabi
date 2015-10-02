@@ -1,0 +1,20 @@
+{
+  "name": "025_mithril_test",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "mocha --require intelli-espower-loader"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.3.3",
+    "espower-loader": "^1.0.0",
+    "intelli-espower-loader": "^1.0.0",
+    "power-assert": "^1.0.1",
+    "mithril-node-render": "^0.4.1",
+    "mithril": "^0.2.0",
+    "mithril-query": "^0.7.6",
+    "sinon": "^1.17.1",
+    "gulp": "^3.9.0",
+    "gulp-browserify": "^0.5.1"
+  }
+}

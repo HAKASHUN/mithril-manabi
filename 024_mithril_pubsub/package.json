@@ -1,0 +1,21 @@
+{
+  "name": "024_mithril_pubsub",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "mithril": "^0.2.0",
+    "pubsub-js": "^1.5.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-browserify": "^0.5.1",
+    "body-parser": "^1.14.1"
+  }
+}
